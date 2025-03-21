@@ -1,4 +1,4 @@
-1800
+
 
 -### Projeto para mostrar funcionalides do git
 
@@ -6,7 +6,3 @@
     - Execute o comando abaixo no terminal
     $ git init
 
-
-    master
-
-    
